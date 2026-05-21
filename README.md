@@ -6,7 +6,7 @@
 
 A high-end, interactive digital forensic dashboard designed to streamline *Open Source Intelligence (OSINT)* workflows. This project provides a curated collection of 15+ essential tools for digital investigators, journalists, and security researchers.
 
-[*🌐 Live Demo View](#) | [🐞 Report Bug](#) | [✨ Request Feature*](#)
+[*🌐 Live Demo View]((https://rahmymohamed.github.io/OSINT-HUB/)) | [🐞 Report Bug](#) | [✨ Request Feature*](#)
 
 ---
 
